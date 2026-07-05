@@ -1,17 +1,75 @@
 # Business Analysis Portfolio
 
-## Case Study 01
-### ERP-WMS Inventory Synchronization
+## Case Study 01 – Inventory Synchronization in an Enterprise Order Fulfillment Process
 
-This portfolio project demonstrates how I approached a real ERP-WMS integration challenge as a Business Analyst and how I would approach the same project today using modern Business Analysis practices supported by AI.
-
-The objective of this portfolio is not to replace the Business Analyst with AI, but to demonstrate how AI can assist with documentation, analysis, and delivery while keeping the Business Analyst responsible for business decisions, stakeholder collaboration, and solution design.
+> **A Business Analysis case study inspired by a real enterprise integration project.**
 
 ---
 
-## Business Problem
+## Project Overview
 
-After sales orders were transferred from NetSuite to ShipHawk, inventory-related changes made in NetSuite were not automatically synchronized to ShipHawk. This created inventory mismatches during warehouse receiving and required manual intervention before fulfillment could continue.
+This portfolio demonstrates how a Business Analyst can approach a real operational issue from initial problem identification through solution delivery.
 
-This case study walks through the complete Business Analysis lifecycle from problem identification through solution delivery.# ERP-WMS-Integration-Case-Study-with-AI
-This folder contains the executive summary and project overview.
+The case study is based on an enterprise order fulfillment process where inventory-related updates made in an ERP platform were not automatically synchronized with the warehouse management system, resulting in operational delays and manual intervention.
+
+The organization and system names have been anonymized. The business problem, analysis approach, and solution have been preserved to demonstrate Business Analysis practices.
+
+---
+
+## Purpose
+
+The objective of this portfolio is to demonstrate:
+
+* Business Analysis thinking
+* Requirement gathering
+* Stakeholder analysis
+* Process mapping
+* Gap analysis
+* Root cause analysis
+* Business and functional requirements
+* Agile backlog creation
+* Reporting and dashboard design
+
+This project also demonstrates how modern AI tools can assist Business Analysts by accelerating documentation and analysis while keeping business decisions, stakeholder collaboration, and solution ownership with the Business Analyst.
+
+---
+
+## Case Study Roadmap
+
+| Phase                            | Status |
+| -------------------------------- | :----: |
+| Project Overview                 |    ✅   |
+| Business Problem                 |    ✅   |
+| Stakeholder Analysis             |    ⏳   |
+| Current State (AS-IS)            |    ⏳   |
+| Future State (TO-BE)             |    ⏳   |
+| Business Requirements            |    ⏳   |
+| Functional Requirements          |    ⏳   |
+| AI-Assisted Requirement Workflow |    ⏳   |
+| Jira Backlog                     |    ⏳   |
+| Test Strategy                    |    ⏳   |
+| SQL Validation                   |    ⏳   |
+| Power BI Dashboard               |    ⏳   |
+| Lessons Learned                  |    ⏳   |
+
+---
+
+## Skills Demonstrated
+
+* Business Analysis
+* Requirement Gathering
+* Process Improvement
+* Gap Analysis
+* Root Cause Analysis
+* Process Mapping
+* Agile Delivery
+* Jira
+* SQL
+* Power BI
+* AI-assisted Documentation
+
+---
+
+## Disclaimer
+
+This case study is based on a real project experience. Company names, product names, and implementation-specific details have been anonymized to protect confidentiality while preserving the business context and analysis approach.
